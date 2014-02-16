@@ -1,4 +1,4 @@
-developer-notes
+Developer notes
 ===============
 
-personal developer notes
+My personal developer notes.
